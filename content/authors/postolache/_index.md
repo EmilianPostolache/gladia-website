@@ -26,9 +26,9 @@ bio: ""
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Geometry Processing
-  - Geometric Deep Learning
+  - Generative Models
+  - Signal Processing
+  - Source Separation
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
